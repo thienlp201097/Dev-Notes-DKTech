@@ -18,7 +18,7 @@ Applovin:
 
 
 # keystore
-Khi taa project mới phải tạo file keystore ở folder app/
+Khi tạo project mới phải tạo file keystore ở folder app/
 user mặc định là vapp
 
 # Git
