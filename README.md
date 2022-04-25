@@ -16,6 +16,10 @@ https://pub.dev/packages/dktech_admob
 
 Applovin:
 
+# mail support
+fitnessappsp@gmail.com
+3xiappsp@gmail.com
+dktechincsp@gmail.com
 
 # keystore
 Khi tạo project mới phải tạo file keystore ở folder app/
