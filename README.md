@@ -2,22 +2,16 @@
 
 # Lib Android
 ✨ Rate App:
-https://jitpack.io/#dktlib/smart-app-rate
-
-example:
-https://github.com/Namdh1212/smart-app-rate/blob/master/app/src/main/java/com/codemybrainsout/rating/MainActivity.java
+- jitpack: https://jitpack.io/#dktlib/smart-app-rate
+- example: https://github.com/Namdh1212/smart-app-rate/blob/master/app/src/main/java/com/codemybrainsout/rating/MainActivity.java
 
 ✨ Admob:
-https://jitpack.io/#dktlib/AdmobUtilsLibrary
-
-example:
-https://github.com/dktlib/AdmobUtilsLibrary/tree/master/app/src/main/java/com/vapp/admobexample
+- jitpack: https://jitpack.io/#dktlib/AdmobUtilsLibrary
+- example: https://github.com/dktlib/AdmobUtilsLibrary/tree/master/app/src/main/java/com/vapp/admobexample
 
 ✨ Ironsource: 
-https://jitpack.io/#dktlib/IronsourceAndroid
-
-example:
-https://github.com/dktlib/IronsourceAndroid/tree/main/app/src/main/java/com/dktlib/ironsourceutils
+- jitpack: https://jitpack.io/#dktlib/IronsourceAndroid
+- example: https://github.com/dktlib/IronsourceAndroid/tree/main/app/src/main/java/com/dktlib/ironsourceutils
 
 # Lib Flutter
 ✨ Admob:
