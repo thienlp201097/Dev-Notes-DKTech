@@ -13,6 +13,11 @@
 - jitpack: https://jitpack.io/#dktlib/IronsourceAndroid
 - example: https://github.com/dktlib/IronsourceAndroid/tree/main/app/src/main/java/com/dktlib/ironsourceutils
 
+✨ Ironsource: 
+- jitpack: https://jitpack.io/#dktlib/ApplovinUtilsLibrary
+- example: https://github.com/dktlib/ApplovinUtilsLibrary/tree/main/app
+
+
 # Lib Flutter
 ✨ Admob:
 https://pub.dev/packages/dktech_admob
