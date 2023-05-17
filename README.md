@@ -13,7 +13,7 @@
 - jitpack: https://jitpack.io/#dktlib/IronsourceAndroid
 - example: https://github.com/dktlib/IronsourceAndroid/tree/main/app/src/main/java/com/dktlib/ironsourceutils
 
-✨ Ironsource: 
+✨ Applovin: 
 - jitpack: https://jitpack.io/#dktlib/ApplovinUtilsLibrary
 - example: https://github.com/dktlib/ApplovinUtilsLibrary/tree/main/app
 
